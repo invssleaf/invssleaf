@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [invssleaf](youtube.com/invssleaf), a Brazilian Tech Enthusiast.
+I'm [invssleaf](https://www.youtube.com/@InvssLeaf), a Brazilian Tech Enthusiast.
 
 - ⚙️ My main tech stack is: React, Python and Redis.
 - 🔨 My favourite tools are: Figma, Krita and NotebookLM
